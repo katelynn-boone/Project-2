@@ -1,0 +1,35 @@
+header{
+	font-size: 140px;
+	color: #F9E79F;
+	text-align: center;
+	font-family: cursive;
+}
+body{
+	background-color: #B0C4DE;
+}
+.grid {
+  border: 2px purple solid;
+  height: 500px;
+  width: 500px;
+  display: grid;
+  font-size: 50px;
+}
+
+.box {
+  background-color: pink;
+  color: black;
+  border-radius: 5px;
+  border: 4px black solid;
+}
+h1{
+	font-family: cursive;
+	font-size: 60px;
+	color: #F9E79F;
+	text-align: center;
+}
+p{
+	font-family: cursive;
+	font-size: 40px;
+	color: #000000;
+	text-align: center;
+}
